@@ -1,5 +1,9 @@
 
+<h1 align="center">
+ <img width="70%" src="https://github.com/camilacoutodeoliveira/project-client-server-js/blob/main/client-server/public/images/system.svg">
+ <br>
 
+</h1>
 <h1 align="center">Project Client Server - JS</h1><br>
 <p align="center">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -28,6 +32,7 @@ express -h
 express --ejs
 ```
 
+[Resify](http://restify.com/docs/client-guide/)
 ```
 npm install restify-clients --save
 ```
