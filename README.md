@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <img width="70%" src="https://github.com/camilacoutodeoliveira/project-client-server-js/blob/main/client-server/public/images/system.svg">
+ <img width="50%" src="https://github.com/camilacoutodeoliveira/project-client-server-js/blob/main/client-server/public/images/system.svg">
  <br>
 
 </h1>
@@ -15,7 +15,18 @@
 </p>
 
 ## 💻 Project
-This project corresponds a API developed in Node.js
+This project corresponds to a user form for CRUD (Create, Read, Update and Delete),<br>
+developed with the JavaScript programming language and save using a API REST;
+
+## :books: Learned
+
+<ul>
+ <li>POO - (Object Oriented Programming);</li>
+ <li>Promises;</li> 
+ <li>XMLHttpRequest;</li>
+ <li>Fetch api</li>
+ <li>..</li>
+</ul>
 
 
 ## Installation
@@ -36,3 +47,6 @@ express --ejs
 ```
 npm install restify-clients --save
 ```
+
+## 🤝Thanks
+This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
