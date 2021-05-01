@@ -30,7 +30,45 @@ developed with the JavaScript programming language and save using a API REST;
 
 
 ## Installation
+
+### Node Package Manager
+```
+npm install
+```
+
+### Provides methods to specify which function is called when an HTTP request arrives (GET, POST, SET, etc.)
+```
+npm install express --save
+```
+
+### Monitors all changes in your application files and automatically restarts the server
+```
+npm install nodemon -g
+```
+
+### Package Manager
+```
+npm install consign --save
+```
+
+### Module capable of converting the request body to various formats
+```
+npm install body-parser --save
+```
+
+### Database that does not need installation, works in json format and very fast!!!
+```
+npm install nedb --save
+```
+
+### Library that can be used in Node.js with express, to perform the validation of the input data in the AP
+```
+npm install express-validator --save
+npm i express-validator@5.3.1
+```
  
+ 
+ ## Client Server
 ```
 npm install express-generator -g
 ```
