@@ -24,7 +24,7 @@ developed with the JavaScript programming language and save using a API REST;
  <li>POO - (Object Oriented Programming);</li>
  <li>Promises;</li> 
  <li>XMLHttpRequest;</li>
- <li>Fetch api</li>
+ <li>Fetch api;</li>
  <li>..</li>
 </ul>
 
